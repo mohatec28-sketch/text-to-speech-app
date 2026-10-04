@@ -1,0 +1,6 @@
+{
+  "name": "VoiceCraft AI — Multilingual TTS Audio Studio",
+  "description": "Precision multilingual Text-to-Speech synthesis studio supporting Algerian, MSA, Egyptian, Gulf, Levantine, Moroccan, and Tunisian Arabic dialects alongside English and French with expressive voice personas and emotional tone modulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
